@@ -1,6 +1,6 @@
 Questions on the Full Node in private networks
 -----
-1.	When replacing genesis.block.witnesses under config.conf with the address string given upon registration on https://trxscan.org/, do I need to delete other addresses? And do I need to delete the fields of url and voteCount?
+1.	When replacing genesis.block.witnesses under config.conf with the address string given upon registration on https://tronscan.org, do I need to delete other addresses? And do I need to delete the fields of url and voteCount?
 
 2.	After seed.node ip.list has been replaced with the ip address of my own public network and the initiation command java -jar java-tron.jar is given, how can I test if the deployment is successful? For instance, are there testing interfaces or commands such as the redis command (sending PING to server and be returned with PONG) for successful deployment?
 
